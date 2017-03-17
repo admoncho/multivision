@@ -1,0 +1,10 @@
+en este orden
+git init (en la carpeta root del proyecto)
+git status (para ver los archivos cambiados)
+crear .gitignore en la carpeta root y poner los archivos que no quiere que sean subidos
+
+//start tracking the changed files
+git add -A
+
+//create commit
+git commit -m 'first commit'
